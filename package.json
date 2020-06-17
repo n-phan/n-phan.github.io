@@ -1,0 +1,22 @@
+{
+  "name": "n-phan.github.io",
+  "version": "1.0.0",
+  "description": "It's going to be a long summer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-phan/n-phan.github.io.git"
+  },
+  "author": "Nathan Phan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n-phan/n-phan.github.io/issues"
+  },
+  "homepage": "https://github.com/n-phan/n-phan.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
